@@ -67,10 +67,10 @@ $(document).ready(function() {
         $(".sf-list").fadeOut();
     });
     $('.sdb-btn-edit').hover(function() {
-        $(this).text("Click to edit my profile");
+        $(this).text("Click to edit my interests");
     });
     $('.sdb-btn-edit').mouseleave(function() {
-        $(this).text("edit my profile");
+        $(this).text("edit my interests");
     });
 
     //AWARDS

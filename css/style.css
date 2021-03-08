@@ -34,7 +34,7 @@
 	21.MEGA MENU
 	22.SOCIAL MEDIA SHARE 
 	23.SOCIAL MEDIA SHARE
-	24.ABOUT US
+	24.Blog
 	25.AWARDS
 	26.ADMISSIONN
 	27.SEMINAR
@@ -1342,6 +1342,9 @@
      color:#fff;
      font-size: 22px;
      padding-bottom: 14px;
+}
+ .ho-lat-ev h1{
+    color:#fff;
 }
  .ho-lat-ev p{
      color: #e2e2e2;
@@ -3265,7 +3268,7 @@ left: 0;
      border-bottom-left-radius: 5px;
 }
 /*-------------------------------------------------*/
-/*= 24.ABOUT US 
+/*= 24.Blog 
 /*-------------------------------------------------*/
  .about-sp{
      padding: 0px 30px;
